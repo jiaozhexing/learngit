@@ -12,3 +12,7 @@ line for branch dev
 line after branch featurel
 line for branch featurel
 
+for (i in range(100)):
+{
+	s+=i
+}
